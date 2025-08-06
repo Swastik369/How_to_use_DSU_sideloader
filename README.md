@@ -65,5 +65,5 @@ DSU (Dynamic System Updates) lets you boot a GSI as a "test OS" without modifyin
 - **Sticky mode:** On some devices, GSI can stay across reboots; see developer docs for toggle commands if needed.
 - **You do NOT need root for basic DSU Sideloader usage, but Shizuku/root modes add more features and fewer manual steps.**
 
-## Special Thanks to dev of DSU sideloader application 
+### Special Thanks to dev of DSU sideloader application 
 
