@@ -2,7 +2,7 @@
 
 ## What is DSU Sideloader?
 
-DSU (Dynamic System Updates) lets you boot a GSI as a "test OS" without modifying, wiping, or risking your stock system or user data. DSU Sideloader is an open-source app that automates this for custom GSIs—you select, it installs and boots, and you can discard or revert any time.[1][7][4]
+DSU (Dynamic System Updates) lets you boot a GSI as a "test OS" without modifying, wiping, or risking your stock system or user data. DSU Sideloader is an open-source app that automates this for custom GSIs—you select, it installs and boots, and you can discard or revert any time
 
 
 > **Prerequisites:**  
